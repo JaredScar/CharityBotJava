@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Class-Path: com.jaredscarito.charitytwitterbot.main
+Main-Class: com.jaredscarito.charitytwitterbot.main.CharityTwitterBot
